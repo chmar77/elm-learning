@@ -19,3 +19,19 @@ view (View)
 
 - Github : (TODO)
 - Community : (TODO)
+
+
+# Todo list app:
+
++ View todo list
++ Add new todo 
++ Delete todo 
+
++ (Edit)
+
+
+# GIT
+
+- Todo update new code run this: `git pull origin master`
+- If there is error run this first: `git reset HEAD --hard`
+
