@@ -32,6 +32,7 @@ view (View)
 
 # GIT
 
+- First time copy the project: `git clone {link here} `
 - Todo update new code run this: `git pull origin master`
 - If there is error run this first: `git reset HEAD --hard`
 
